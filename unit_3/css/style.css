@@ -1,0 +1,17 @@
+body {
+	background-color:#E5DD74;
+}
+h1 {
+	color:#B22222;font-size: 50px;
+}
+h3 {
+	color:#000080;font-family: "arial Bold";font-size: 40px;
+}
+h2 {
+	color: #000080; font-size: 50px;font-family: "arial Bold";
+}
+ul,li {font-family: "arial"; color: #28295A;font-size: 30px;
+}
+h4 {
+	color:#000080; font-family: "arial italic"; font-size: 20px;
+}
